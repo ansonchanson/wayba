@@ -1941,7 +1941,7 @@
         {
           "name": "自用",
       "type": 0,
-      "url": "./lives/YYDS",
+      "url": "./lives/广东移动内网",
       "epg": "http://e.erw.cc/all.xml",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "playerType": 2,
