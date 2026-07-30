@@ -1,5 +1,5 @@
 {
-    "spider": "./fuckboy.jar",
+    "spider": "./jar/fuckboy.jar",
     "wallpaper": "./picture/1.png",
     "logo": "./picture/1.jpg",
     "sites": [
