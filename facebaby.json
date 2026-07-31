@@ -104,8 +104,9 @@
              "searchable": 1,
              "quickSearch": 1,
              "filterable": 1,
-             "ext": {"site":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"}},
-             {
+             "ext": {"site":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"}
+		 },
+         {
             "key": "毒舌影视",
             "name": "毒舌｜APP",
             "type": 3,
@@ -283,13 +284,13 @@
       "style": {
         "type": "list"
       }
-    },	
-    {
-      "key": "金牌影视",
-      "name": "金牌｜影视",
-      "type": 3,
-      "api": "csp_Jpys",
-      "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+    },
+        {
+          "key": "金牌影视",
+          "name": "金牌｜影视",
+          "type": 3,
+          "api": "csp_Jpys",
+          "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
     },
     {
       "key": "荐片",
@@ -297,12 +298,6 @@
       "api": "csp_Jianpian",
       "type": 3,
       "ext": "https://api.ztcgi.com"
-    },
-    {
-      "key": "奇优影视",
-      "name": "奇优｜影视",
-      "type": 3,
-      "api": "csp_Qiyou"
     },
     {
       "key": "苹果影视",
@@ -319,13 +314,6 @@
       "type": 3,
       "api": "csp_Tvyb",
       "ext": "http://www.viptv01.com"
-    },
-    {
-      "key": "全网影视",
-      "name": "全看｜影视",
-      "type": 3,
-      "api": "csp_Quanwk",
-      "ext": "https://www.91qkw.com"
     },
     {
       "key": "饺子影视",
@@ -363,14 +351,6 @@
       "api": "csp_XBPQ",
       "ext": "./json/永乐影视.json"
     },
-        {
-            "key": "移动",
-            "name": "移动｜影视",
-            "type": 3,
-            "api": "csp_YD",
-            "searchable": 1,
-            "quickSearch": 1
-        },
         {
             "key": "厂长影视",
             "name": "厂长｜影视",
