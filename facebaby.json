@@ -290,8 +290,9 @@
           "name": "金牌｜影视",
           "type": 3,
           "api": "csp_Jpys",
+          "jar": "./jar/spider.jar",
           "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
-    },
+        },
     {
       "key": "荐片",
       "name": "荐片｜影视",
