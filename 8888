@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/fuckboy.jar;md5;./jar/spider.jar",
+    "spider": "https://github.com/ansonchanson/wayba/blob/main/jar/fuckboy.jar;md5;https://github.com/ansonchanson/wayba/blob/main/jar/spider.jar",
     "sites": [
         {
             "key": "豆瓣",
