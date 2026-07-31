@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/fuckboy.jar",
+    "spider": "./jar/fuckboy.jar;md5;./jar/spider.jar",
     "sites": [
         {
             "key": "豆瓣",
