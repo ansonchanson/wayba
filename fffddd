@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/fuckheb.jar",
+    "spider": "./jar/hebing.jar",
     "sites": [
         {
             "key": "豆瓣",
