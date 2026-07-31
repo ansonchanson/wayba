@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.com/ansonchanson/wayba/blob/main/jar/fuckboy.jar;md5;https://github.com/ansonchanson/wayba/blob/main/jar/spider.jar",
+    "spider": "./jar/fuckboy.jar",
     "sites": [
         {
             "key": "豆瓣",
@@ -13,6 +13,7 @@
           "name": "金牌｜影视",
           "type": 3,
           "api": "csp_Jpys",
+          "jar": "./jar/spider.jar",
           "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
         }
     ],
