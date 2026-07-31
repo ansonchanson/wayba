@@ -1,0 +1,20 @@
+{
+    "spider": "./jar/fuckboy.jar",
+    "sites": [
+        {
+            "key": "豆瓣",
+            "name": "拾光自用",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0
+        },
+        {
+          "key": "金牌影视",
+          "name": "金牌｜影视",
+          "type": 3,
+          "api": "csp_Jpys",
+          "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
+        }
+    ],
+    "parses": []
+}
