@@ -1409,6 +1409,15 @@
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "playerType": 2,
       "timeout": 10
+         },
+		 {
+          "name": "影视仓自带",
+      "type": 0,
+      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
+      "epg": "http://e.erw.cc/all.xml",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png",
+      "playerType": 2,
+      "timeout": 10
          }
     ],
     "hosts": [
