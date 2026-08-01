@@ -1411,7 +1411,7 @@
       "timeout": 10
          },
 		{
-          "name": "自用",
+          "name": "易发",
       "type": 0,
       "url": "./lives/yifa",
       "epg": "http://e.erw.cc/all.xml",
@@ -1420,7 +1420,7 @@
       "timeout": 10
          },
 		 {
-          "name": "影视仓自带",
+          "name": "影视仓",
       "type": 0,
       "url": "http://47.120.41.246:8025/vip/jar/zb.php",
       "epg": "http://e.erw.cc/all.xml",
