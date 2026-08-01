@@ -1402,7 +1402,7 @@
     ],
     "lives": [
         {
-          "name": "自用",
+          "name": "自用1",
       "type": 0,
       "url": "./lives/广东移动内网",
       "epg": "http://e.erw.cc/all.xml",
@@ -1414,6 +1414,15 @@
           "name": "易发",
       "type": 0,
       "url": "./lives/yifa",
+      "epg": "http://e.erw.cc/all.xml",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+         },
+		{
+          "name": "自用2",
+      "type": 0,
+      "url": "./lives/Yangwe1",
       "epg": "http://e.erw.cc/all.xml",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "playerType": 2,
