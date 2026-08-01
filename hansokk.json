@@ -113,26 +113,6 @@
              "filterable": 1,
              "ext": {"site":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"}
 		 },
-         {
-            "key": "毒舌影视",
-            "name": "毒舌｜APP",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/毒舌影视.json"
-        },
-        {
-            "key": "农民采集",
-            "name": "农民｜APP",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/农民采集.json"
-        },
         {
             "key": "农牧",
             "name": "农牧｜APP",
@@ -142,50 +122,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/农牧影视.json"
-        },
-        {
-            "key": "乐看",
-            "name": "乐看｜APP",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/乐看影视.json"
-        },
-        {
-      "key": "剧下饭",
-      "name": "下饭｜APP",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"
-    },
-     {
-            "key": "流光",
-            "name": "流光｜APP",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./json/流光4k.json"
-        },
-        {
-            "key": "哔哩｜APP",
-            "name": "哔哩｜APP",
-            "type": 3,
-            "api": "./py/哔哩视频.py",
-            "ext": {
-                "json": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
-            }
-        },
-        {
-            "key": "茶杯狐影视",
-            "name": "茶杯｜APP",
-            "type": 3,
-            "api": "./py/茶杯狐影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
         },
     {
       "key": "影视",
@@ -281,17 +217,6 @@
         "version": "120"
       }
     },
-    {
-      "key": "移动",
-      "name": "移动｜APP",
-      "type": 3,
-      "api": "csp_YD",
-      "searchable": 1,
-      "quickSearch": 1,
-      "style": {
-        "type": "list"
-      }
-    },
         {
           "key": "金牌影视",
           "name": "金牌｜影视",
@@ -316,40 +241,11 @@
       "filterable": 1
     },
     {
-      "key": "云播影视",
-      "name": "云播｜影视",
-      "type": 3,
-      "api": "csp_Tvyb",
-      "ext": "http://www.viptv01.com"
-    },
-    {
-      "key": "饺子影视",
-      "name": "饺子｜影视",
-      "type": 3,
-      "api": "csp_Jiaozi"
-    },
-    {
-      "key": "爱看机器人",
-      "name": "爱看｜影视",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "面包影视",
       "name": "面包｜影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./json/面包影视.json"
-    },
-    {
-      "key": "三九影视",
-      "name": "三九｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./json/三九影视.json"
     },
     {
       "key": "永乐影视",
@@ -358,44 +254,12 @@
       "api": "csp_XBPQ",
       "ext": "./json/永乐影视.json"
     },
-        {
-            "key": "奇优影视",
-            "name": "奇优｜影视",
-            "type": 3,
-            "api": "csp_Qiyou"
-        },
-        {
+      {
             "key": "全网影视",
             "name": "全看｜影视",
             "type": 3,
             "api": "csp_Quanwk",
             "ext": "https://www.91qkw.com"
-        },
-        {
-            "key": "白白影视",
-            "name": "白白｜影视",
-            "type": 3,
-            "api": "csp_SuBaiBai",
-            "ext": "https://www.subaibai.com"
-        },
-        {
-            "key": "农民影视",
-            "name": "农民｜影视",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/农民影视.json"
-        },
-        {
-            "key": "爱看机器人",
-            "name": "爱看｜影视",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "七七影视",
@@ -405,48 +269,6 @@
             "ext": "./json/七七影视.json"
         },
         {
-            "key": "可可影视",
-            "name": "可可｜影视",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/可可影视.json"
-        },
-        {
-            "key": "海纳影视",
-            "name": "海纳｜影视",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/海纳影视.json"
-        },
-        {
-            "key": "面包影视",
-            "name": "面包｜影视",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/面包影视.json"
-        },
-        {
-            "key": "永乐影视",
-            "name": "永乐｜影视",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/永乐影视.json"
-        },
-        {
-            "key": "雪糕影视",
-            "name": "雪糕｜影视",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/雪糕影视.json"
-        },
-        {
-            "key": "流光影视",
-            "name": "流光｜影视",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/流光影视.json"
-        },
-        {
             "key": "流星影视",
             "name": "流星｜影视",
             "type": 3,
@@ -454,32 +276,11 @@
             "ext": "./json/流星影视.json"
         },
         {
-            "key": "星辰影视",
-            "name": "星辰｜影视",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/星辰影视.json"
-        },
-        {
             "key": "星空影视",
             "name": "星空｜影视",
             "type": 3,
             "api": "csp_HBPQ",
             "ext": "./json/星空影视.json"
-        },
-        {
-            "key": "巴蜀影视",
-            "name": "巴蜀｜影视",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/巴蜀影视.json"
-        },
-        {
-            "key": "泥巴影视",
-            "name": "泥巴｜影视",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/泥巴影视.json"
         },
         {
             "key": "随客影视",
@@ -495,13 +296,6 @@
             "api": "csp_HBPQ",
             "ext": "./json/歪片影视.json"
         },
-        {
-            "key": "秀儿影视",
-            "name": "秀儿｜影视",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/秀儿影视.json"
-        },
     {
       "key": "蚂蚁影院",
       "name": "蚂蚁｜影视",
@@ -511,17 +305,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/蚂蚁影视.json"
-    },      
-    {
-      "key": "我闲影院",
-      "name": "我闲｜影视",
-      "type": 3,
-      "api": "csp_HBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/我闲影视.json"
-    }, 
+    },
     {
       "key": "4K影视",
       "name": "四K｜影视",
@@ -531,62 +315,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/4k影视.json"
-    },
-        {
-      "key": "枫林影视",
-      "name": "枫林｜影视",
-      "type": 3,
-      "api": "csp_HBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/枫林影视.json"
-    },  
-        {
-            "key": "骚火影视",
-            "name": "骚火｜影视",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/骚火影视.json"
-        }, 
+    }, 
         {
             "key": "SVIP影视",
             "name": "SVIP｜影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./json/SVIP影视.json"
-        },
-        {
-            "key": "点播影视",
-            "name": "点播｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./json/点播影视.json"
-        }, 
-        {
-            "key": "悟空",
-            "name": "悟空｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/悟空影视.json"
-        },  
-        {
-            "key": "麦田影视",
-            "name": "麦田｜影视",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/麦田影视.json"
-        },
-        {
-            "key": "猫咪影视",
-            "name": "猫咪｜影视",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/猫咪影视.json"
         },
                 {
             "key": "路飞影视",
@@ -614,26 +349,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/全集影视.json"
-        },
-        {
-            "key": "骚火影视",
-            "name": "骚火｜影视",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/骚火影视.json"
-        },
-        {
-            "key": "电影牛",
-            "name": "电影牛｜影视",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/电影牛.json"
         },
         {
             "key": "1905",
@@ -678,17 +393,6 @@
       "ext": "./json/木偶哥哥.json"
     },
     {
-      "key": "蜡笔",
-      "name": "蜡笔｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./json/蜡笔.json"
-    },
-    {
       "key": "至臻",
       "name": "至臻｜4K",
       "type": 3,
@@ -720,77 +424,6 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "./json/欧哥.json"
-    },
-    {
-      "key": "二小",
-      "name": "二小｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./json/二小.json"
-    },
-    {
-      "key": "雷鲸",
-      "name": "雷鲸｜4K",
-      "type": 3,
-      "api": "csp_PanWebShareCloudLJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": "./json/雷鲸.json"
-    },
-    {
-      "key": "海绵",
-      "name": "海绵｜4K",
-      "type": 3,
-      "api": "csp_PanWebShareCloudHM",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": "./json/海绵.json"
-    },
-    {
-      "key": "夸父",
-      "name": "夸父｜4K",
-      "type": 3,
-      "api": "csp_PanWebShareCloudKF",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": "./json/夸父.json"
-    },
-    {
-      "key": "123",
-      "name": "123｜4K",
-      "type": 3,
-      "api": "csp_PanWebShareCloud123",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": "./json/123网盘.json"
     },
     {
       "key": "趣盘",
@@ -826,52 +459,6 @@
             "filterable": 1,
             "playerType": 2
         }, 
-   {
-      "key": "甜圈短剧",
-      "name": "甜圈｜短剧",
-      "type": 3,
-      "api": "./py/甜圈短剧.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-        {
-            "key": "锦鲤短剧",
-            "name": "萌鱼｜短剧",
-            "type": 3,
-            "api": "./py/锦鲤短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "黑虎",
-            "name": "黑虎｜短剧",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/黑虎短剧.json"
-        },
-        {
-            "key": "番茄",
-            "name": "番茄｜短剧",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./json/番茄短剧.json"
-        },
-        {
-            "key": "软软短剧",
-            "name": "软软｜短剧",
-            "type": 3,
-            "api": "./py/软鸭短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
         {
             "key": "iQIYI采集网",
             "name": "iQIYI｜采集",
@@ -1101,19 +688,7 @@
         "类型": "动作片$6#喜剧片$7#爱情片$8#高分经典科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#香港剧$28#恋爱不分国度$29#台湾剧$27#美国剧$31#泰国剧$33#其它剧$35||无||无||无"
       }
     },
-{
-      "key": "白嫖者",
-      "name": "翘楚｜采集",
-      "type": 3,
-      "ua": "okhttp/3.15",
-      "api": "csp_HBPQ",
-      "ext": {
-        "分类url": "https://www.qyzf88.com/qyvodtype/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#樱花动漫$4#综艺$3",
-        "副标题": "class=\"pic-text text-right\"&&</span>",
-        "简介": "寒+剧情介绍：&&</p >"
-      }
-    },
+
     {
       "key": "360采集",
       "name": "360｜采集",
@@ -1246,42 +821,6 @@
         ]
       },
         {
-            "key": "修罗影视",
-            "name": "修罗｜磁力",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/修罗影视.json"
-        },
-    {
-      "key": "修罗",
-      "name": "修罗｜磁力2",
-      "api": "csp_Xlys",
-      "type": 3,
-      "ext": "https://xl01.com.de"
-    },
-        {
-            "key": "七味",
-            "name": "七味｜磁力",
-            "type": 3,
-            "api": "csp_QnMp4",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "80S",
-            "name": "80S｜磁力",
-            "type": 3,
-            "api": "csp_BLSGod",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "New6v",
             "name": "New6V｜磁力",
             "type": 3,
@@ -1290,15 +829,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.xb6v.com"
-        },
-        {
-            "key": "SeedHub",
-            "name": "SeedHub｜磁力",
-            "type": 3,
-            "api": "csp_SeedHub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "美剧迷",
@@ -1319,16 +849,6 @@
             "filterable": 1
         },
         {
-            "key": "电影港",
-            "name": "电影港｜磁力",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/电影港.json"
-        },
-        {
             "key": "狐狸君",
             "name": "狐狸君｜磁力",
             "type": 3,
@@ -1340,29 +860,10 @@
             "ext": "./json/狐狸君.json"
         },
         {
-            "key": "布谷TV",
-            "name": "布谷TV｜磁力",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/布谷TV.json"
-        },
-        {
             "key": "Mp4电影",
             "name": "Mp4电影｜磁力",
             "type": 3,
             "api": "csp_Mp4Mov",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "美剧天堂",
-            "name": "美剧天堂｜磁力",
-            "type": 3,
-            "api": "csp_MeijuTT",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1375,22 +876,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-       {
-       "key": "幸福｜拾光",
-       "name": "幸福｜拾光",
-       "type": 3,
-       "api": "csp_HBPQ",
-       "ext": {
-       "请求头": "User-Agent$MOBILE_UA",
-       "编码": "UTF-8",
-       "分类": "电影$chfilm#电视剧$chtvs#综艺$chvariety#动漫$chcg#",  
-       "分类url": "https://www.cgong.com/{cateId}/{class}_{area}_{year}_gold_{catePg}.html",
-       "简介": "喜欢热闹还是喜欢安静
-       " 
-      }
-    }
-    ],
+        }
+        ],
     "parses": [
     {
             "name": "无上",
