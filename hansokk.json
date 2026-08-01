@@ -96,7 +96,14 @@
                 "url": "http://v.rbotv.cn"
             }
         },
-         {
+		 {
+      "key": "瓜子影视",
+      "name": "🥇瓜子｜影视",
+      "type": 3,
+      "api": "./py/GZYS.py",
+      "changeable": 1
+    },
+     {
              "key": "文才",
              "name": "文才｜APP",
              "type": 3,
