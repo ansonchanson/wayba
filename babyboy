@@ -408,7 +408,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://raw.githubusercontent.com/ansonchanson/wayba/refs/heads/main/json/至臻2.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ansonchanson/wayba/refs/heads/main/json/%E8%87%B3%E8%87%BB2.json"
     },
     {
       "key": "木偶",
@@ -419,7 +419,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://raw.githubusercontent.com/ansonchanson/wayba/refs/heads/main/json/木偶.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ansonchanson/wayba/refs/heads/main/json/%E6%9C%A8%E5%81%B6.json"
     },
     {
       "key": "玩偶",
@@ -430,7 +430,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://raw.githubusercontent.com/ansonchanson/wayba/refs/heads/main/json/玩偶.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ansonchanson/wayba/refs/heads/main/json/玩偶.json"
     },
     {
       "key": "多多",
@@ -441,7 +441,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://raw.githubusercontent.com/ansonchanson/wayba/refs/heads/main/json/多多.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ansonchanson/wayba/refs/heads/main/json/多多.json"
     },
     {
       "key": "讴歌",
@@ -452,7 +452,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://raw.githubusercontent.com/ansonchanson/wayba/refs/heads/main/json/讴歌.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/ansonchanson/wayba/refs/heads/main/json/讴歌.json"
     },
 
         {
