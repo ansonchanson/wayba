@@ -140,16 +140,6 @@ CCTV-8K超高清,http://198.204.228.26/live/cctv8k.m3u8
 兵团卫视HD,http://192.151.150.154/live/btws.m3u8
 
 广东频道,#genre#
-大湾区卫视,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.215:5146
-大湾区卫视,http://hongzhijiaoyu.net:8188/udp/239.77.0.215:5146
-大湾区卫视,http://61.145.188.90:50055/udp/239.77.0.215:5146
-大湾区卫视,http://yanshifen.top:8889/udp/239.77.0.215:5146
-大湾区卫视,http://lsa.familyds.com:8188/udp/239.77.0.215:5146
-大湾区卫视,http://www.yahao.host:4022/udp/239.77.0.215:5146
-大湾区卫视,http://www.3344.uk:8888/udp/239.77.0.215:5146
-
-广东卫视,http://hongzhijiaoyu.net:8188/udp/239.77.0.84:5146
-广东卫视,http://www.syy3.top:3861/udp/239.77.0.84:5146
 广东卫视,http://gdyd.7259.cc.cd:4014/udp/239.77.0.84:5146
 广东卫视,http://gdyd.7259.cc.cd:4111/udp/239.77.0.84:5146
 广东卫视,http://yanshifen.top:8889/udp/239.77.0.84:5146
@@ -159,55 +149,34 @@ CCTV-8K超高清,http://198.204.228.26/live/cctv8k.m3u8
 广东卫视,http://lsa.familyds.com:8188/udp/239.77.0.84:5146
 广东卫视,http://plex.cyruslee.top:8888/udp/239.77.0.84:5146
 
-广东珠江,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.1:5146
-广东珠江,http://www.syy3.top:3861/udp/239.77.0.1:5146
-广东珠江,http://61.145.188.90:50055/udp/239.77.0.1:5146
-广东珠江,http://yanshifen.top:8889/udp/239.77.0.1:5146
+大湾区卫视,http://yanshifen.top:8889/udp/239.77.0.215:5146
+大湾区卫视,http://lsa.familyds.com:8188/udp/239.77.0.215:5146
+
+
 广东珠江,http://www.yahao.host:4022/udp/239.77.0.1:5146
 广东珠江,http://gdyd.7259.cc.cd:4111/udp/239.77.0.1:5146
 广东珠江,http://gdyd.7259.cc.cd:4014/udp/239.77.0.1:5146
-广东珠江,http://www.3344.uk:8888/udp/239.77.0.1:5146
-广东珠江,http://www.maomizi.cn:9527/udp/239.77.0.1:5146
 广东珠江,http://lsa.familyds.com:8188/udp/239.77.0.1:5146
 广东珠江,http://plex.cyruslee.top:8888/udp/239.77.0.1:5146
-广东珠江,http://jellyfin.cyruslee.top:8888/udp/239.77.0.1:5146
 
 广东体育,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.112:5146
 广东体育,http://www.syy3.top:3861/udp/239.77.0.112:5146
 广东体育,http://61.145.188.90:50055/udp/239.77.0.112:5146
 广东体育,http://yanshifen.top:8889/udp/239.77.0.112:5146
 广东体育,http://www.yahao.host:4022/udp/239.77.0.112:5146
-广东体育,http://119.29.142.81:4022/udp/239.77.0.112:5146
 广东体育,http://www.3344.uk:8888/udp/239.77.0.112:5146
 广东体育,http://lsa.familyds.com:8188/udp/239.77.0.112:5146
 广东体育,http://www.maomizi.cn:9527/udp/239.77.0.112:5146
 
 广东少儿,http://www.syy3.top:3861/udp/239.77.0.250:5146
-广东少儿,http://61.145.188.90:50055/udp/239.77.0.250:5146
 广东少儿,http://yanshifen.top:8889/udp/239.77.0.250:5146
 广东少儿,http://119.29.142.81:4022/udp/239.77.0.250:5146
 广东少儿,http://www.yahao.host:4022/udp/239.77.0.250:5146
 广东少儿,http://www.3344.uk:8888/udp/239.77.0.250:5146
 
 广东影视,http://yanshifen.top:8889/udp/239.77.0.217:5146
-广东影视,http://61.145.188.90:50055/udp/239.77.0.217:5146
-广东影视,http://www.yahao.host:4022/udp/239.77.0.217:5146
 广东影视,http://lsa.familyds.com:8188/udp/239.77.0.217:5146
 广东影视,http://www.3344.uk:8888/udp/239.77.0.217:5146
-
-广东新闻,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.173:5146
-广东新闻,http://hongzhijiaoyu.net:8188/udp/239.77.0.173:5146
-广东新闻,http://www.syy3.top:3861/udp/239.77.0.173:5146
-广东新闻,http://gdyd.7259.cc.cd:4111/udp/239.77.0.173:5146
-广东新闻,http://gdyd.7259.cc.cd:4014/udp/239.77.0.173:5146
-广东新闻,http://61.145.188.90:50055/udp/239.77.0.173:5146
-广东新闻,http://yanshifen.top:8889/udp/239.77.0.173:5146
-广东新闻,http://www.yahao.host:4022/udp/239.77.0.173:5146
-广东新闻,http://www.3344.uk:8888/udp/239.77.0.173:5146
-广东新闻,http://www.maomizi.cn:9527/udp/239.77.0.173:5146
-广东新闻,http://lsa.familyds.com:8188/udp/239.77.0.173:5146
-广东新闻,http://jellyfin.cyruslee.top:8888/udp/239.77.0.173:5146
-广东新闻,http://plex.cyruslee.top:8888/udp/239.77.0.173:5146
 
 经济科教,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.85:5146
 经济科教,http://hongzhijiaoyu.net:8188/udp/239.77.0.85:5146
@@ -229,4 +198,18 @@ CCTV-8K超高清,http://198.204.228.26/live/cctv8k.m3u8
 广东民生,http://lsa.familyds.com:8188/udp/239.77.0.225:5146
 广东民生,http://plex.cyruslee.top:8888/udp/239.77.0.225:5146
 
+电视频道,#genre#
+与凤行,https://live.ottiptv.cc/huya/26355866
+唐诡之西行,https://live.ottiptv.cc/huya/26355763
+大秦赋,https://live.ottiptv.cc/huya/23903130
+如懿传,https://live.ottiptv.cc/huya/29465868
+庆余年,https://live.ottiptv.cc/huya/11352960
+延禧攻略,https://live.ottiptv.cc/huya/26355864
+柳舟计,https://live.ottiptv.cc/huya/23860039
+狂飙,https://live.ottiptv.cc/yy/1355142167
+玫瑰的故事,https://live.ottiptv.cc/huya/23865142
+陈情令,https://live.ottiptv.cc/huya/29465862
 
+_,#genre#
+色戒,https://vip.dytt-cinema.com/20250326/17763_409a410d/index.m3u8
+人间中毒,https://vip.lz15uu.com/20221207/653_7f871987/index.m3u8$lzm3u8
