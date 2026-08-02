@@ -397,7 +397,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/jiandan1232/58/raw/master/pancms/Test.json"
+      "ext": "./至臻.json"
     },
     {
       "key": "至臻",
@@ -408,7 +408,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/jiandan1232/58/raw/master/pancms/zhizhen.json"
+      "ext": "./至臻2.json"
     },
     {
       "key": "木偶",
@@ -419,7 +419,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/jiandan1232/58/raw/master/pancms/muou.json"
+      "ext": "./木偶.json"
     },
     {
       "key": "玩偶",
@@ -430,7 +430,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/jiandan1232/58/raw/master/pancms/wanou.json"
+      "ext": "./玩偶.json"
     },
     {
       "key": "多多",
@@ -441,7 +441,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/jiandan1232/58/raw/master/pancms/duo.json"
+      "ext": "./多多.json"
     },
     {
       "key": "讴歌",
@@ -452,7 +452,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/jiandan1232/58/raw/master/pancms/huban.json"
+      "ext": "./讴歌.json"
     },
 
         {
