@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/hebing1 (1).jar",
+    "spider": "./jar/hebing1.jar",
     "wallpaper": "./picture/1.png",
     "logo": "./picture/1.jpg",
     "sites": [
@@ -371,63 +371,6 @@
       "ext": "./json/小斑快映.json"
     },
     {
-      "key": "玩偶哥哥",
-      "name": "玩偶｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./json/玩偶哥哥.json"
-    },
-    {
-      "key": "wogg",
-      "name": "玩偶｜4K 2",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 30,
-      "ext": {
-        "site": "https://wogg.xxooo.cf,https://www.wogg.bf,https://woggpan.333232.xyz,https://woggapi.888484.xyz,https://www.wogg.lol,https://www.wogg.net"
-      }
-    },
-    {
-      "key": "木偶",
-      "name": "木偶｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./json/木偶哥哥.json"
-    },
-    {
-      "key": "至臻",
-      "name": "至臻｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./json/至臻.json"
-    },
-    {
-      "key": "多多",
-      "name": "多多｜4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./json/多多.json"
-    },
-    {
       "key": "趣盘",
       "name": "趣盘｜4K",
       "type": 3,
@@ -447,7 +390,7 @@
 
     {
       "key": "自建",
-      "name": "💖┃至臻①┃4K💖",
+      "name": "①至臻4K",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -458,7 +401,7 @@
     },
     {
       "key": "木偶",
-      "name": "💖┃木偶┃4K💖",
+      "name": "木偶｜4K",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -469,7 +412,7 @@
     },
     {
       "key": "玩偶",
-      "name": "💖┃玩偶┃4K💖",
+      "name": "玩偶｜4K",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -480,7 +423,7 @@
     },
     {
       "key": "至臻",
-      "name": "💖┃至臻②┃4K💖",
+      "name": "②至臻4K",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -491,7 +434,7 @@
     },
     {
       "key": "多多",
-      "name": "💖┃多多┃4K💖",
+      "name": "多多｜4K",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -502,7 +445,7 @@
     },
     {
       "key": "讴歌",
-      "name": "💖┃讴歌┃4K💖",
+      "name": "讴歌｜4K",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
