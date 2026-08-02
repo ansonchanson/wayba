@@ -400,6 +400,17 @@
       "ext": "https://gitee.com/jiandan1232/58/raw/master/pancms/Test.json"
     },
     {
+      "key": "至臻",
+      "name": "②至臻4K",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/jiandan1232/58/raw/master/pancms/zhizhen.json"
+    },
+    {
       "key": "木偶",
       "name": "木偶｜4K",
       "type": 3,
@@ -420,17 +431,6 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "https://gitee.com/jiandan1232/58/raw/master/pancms/wanou.json"
-    },
-    {
-      "key": "至臻",
-      "name": "②至臻4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://gitee.com/jiandan1232/58/raw/master/pancms/zhizhen.json"
     },
     {
       "key": "多多",
