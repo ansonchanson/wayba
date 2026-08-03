@@ -223,14 +223,14 @@
     },
     {
       "key": "面包影视",
-      "name": "s 面包｜影视",
+      "name": "面包｜影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./json/面包影视.json"
     },
     {
       "key": "永乐影视",
-      "name": "S 永乐｜影视",
+      "name": "永乐｜影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./json/永乐影视.json"
@@ -299,7 +299,7 @@
     }, 
         {
             "key": "SVIP影视",
-            "name": "S SVIP｜影视",
+            "name": "SVIP｜影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./json/SVIP影视.json"
@@ -371,7 +371,7 @@
 
     {
       "key": "自建",
-      "name": "S ①至臻4K",
+      "name": "①至臻4K",
       "type": 3,
       "api": "F csp_PanWebShare",
       "searchable": 1,
@@ -382,7 +382,7 @@
     },
     {
       "key": "至臻",
-      "name": "F ②至臻4K",
+      "name": "②至臻4K",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -393,7 +393,7 @@
     },
     {
       "key": "木偶",
-      "name": "F 木偶｜4K",
+      "name": "木偶｜4K",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -404,7 +404,7 @@
     },
     {
       "key": "玩偶",
-      "name": "F 玩偶｜4K",
+      "name": "玩偶｜4K",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -415,7 +415,7 @@
     },
     {
       "key": "多多",
-      "name": "F 多多｜4K",
+      "name": "多多｜4K",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -426,7 +426,7 @@
     },
     {
       "key": "讴歌",
-      "name": "F 讴歌｜4K",
+      "name": "讴歌｜4K",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -438,7 +438,7 @@
 
         {
             "key": "三六零",
-            "name": "F 三六零｜视频",
+            "name": "三六零｜视频",
             "type": 3,
             "api": "csp_SP360"
         },
