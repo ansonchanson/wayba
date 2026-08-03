@@ -103,19 +103,9 @@
       "api": "./py/GZYS.py",
       "changeable": 1
     },
-     {
-             "key": "文才",
-             "name": "文才｜APP",
-             "type": 3,
-             "api": "./py/文才影视.py",
-             "searchable": 1,
-             "quickSearch": 1,
-             "filterable": 1,
-             "ext": {"site":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"}
-		 },
         {
             "key": "农牧",
-            "name": "F农牧｜APP",
+            "name": "农牧｜APP",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -226,28 +216,28 @@
         },
     {
       "key": "荐片",
-      "name": "F荐片｜影视",
+      "name": "荐片｜影视",
       "api": "csp_Jianpian",
       "type": 3,
       "ext": "https://api.ztcgi.com"
     },
     {
       "key": "面包影视",
-      "name": "F面包｜影视",
+      "name": "s 面包｜影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./json/面包影视.json"
     },
     {
       "key": "永乐影视",
-      "name": "F永乐｜影视",
+      "name": "S 永乐｜影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./json/永乐影视.json"
     },
       {
             "key": "全网影视",
-            "name": "F全看｜影视",
+            "name": "全看｜影视",
             "type": 3,
             "api": "csp_Quanwk",
             "ext": "https://www.91qkw.com"
@@ -309,7 +299,7 @@
     }, 
         {
             "key": "SVIP影视",
-            "name": "F SVIP｜影视",
+            "name": "S SVIP｜影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./json/SVIP影视.json"
@@ -323,7 +313,7 @@
         },
         {
             "key": "回看影视",
-            "name": "F 莱看｜影视",
+            "name": "莱看｜影视",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -333,7 +323,7 @@
         },
         {
             "key": "全集影视",
-            "name": "F 网集｜影视",
+            "name": "网集｜影视",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -343,7 +333,7 @@
         },
         {
             "key": "1905",
-            "name": "F 1905｜影视",
+            "name": "1905｜影视",
             "type": 3,
             "api": "csp_Web1905",
             "searchable": 1,
@@ -352,7 +342,7 @@
         },
     {
       "key": "小斑快映",
-      "name": "F 快映｜4K",
+      "name": "快映｜4K",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -363,7 +353,7 @@
     },
     {
       "key": "趣盘",
-      "name": "F 趣盘｜4K",
+      "name": "趣盘｜4K",
       "type": 3,
       "api": "csp_PanWebQu",
       "searchable": 1,
@@ -381,7 +371,7 @@
 
     {
       "key": "自建",
-      "name": "①至臻4K",
+      "name": "S ①至臻4K",
       "type": 3,
       "api": "F csp_PanWebShare",
       "searchable": 1,
@@ -826,7 +816,7 @@
       },
         {
             "key": "New6v",
-            "name": "F New6V｜磁力",
+            "name": "New6V｜磁力",
             "type": 3,
             "api": "csp_New6v",
             "searchable": 1,
@@ -836,7 +826,7 @@
         },
         {
             "key": "美剧迷",
-            "name": "F 美剧迷｜磁力",
+            "name": "美剧迷｜磁力",
             "type": 3,
             "api": "csp_MeijuMi",
             "searchable": 1,
@@ -845,7 +835,7 @@
         },
         {
             "key": "迅雷吧",
-            "name": "F 迅雷吧｜磁力",
+            "name": "迅雷吧｜磁力",
             "type": 3,
             "api": "csp_Xunlei8",
             "searchable": 1,
@@ -865,7 +855,7 @@
         },
         {
             "key": "Mp4电影",
-            "name": "F Mp4电影｜磁力",
+            "name": "Mp4电影｜磁力",
             "type": 3,
             "api": "csp_Mp4Mov",
             "searchable": 1,
@@ -874,7 +864,7 @@
         },
         {
             "key": "电影天堂",
-            "name": "F 电影天堂｜磁力",
+            "name": "电影天堂｜磁力",
             "type": 3,
             "api": "csp_DyGod",
             "searchable": 1,
