@@ -373,7 +373,7 @@
       "key": "自建",
       "name": "①至臻4K",
       "type": 3,
-      "api": "F csp_PanWebShare",
+      "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
