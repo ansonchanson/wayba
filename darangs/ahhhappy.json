@@ -1,0 +1,172 @@
+{
+  "sites": [
+    {
+      "name": "MISSAV",
+      "type": 3,
+      "api": "csp_miss",
+      "ext": "./lib/missav.js"
+    },
+    {
+      "name": "EXPORNTOONS",
+      "type": 3,
+      "api": "csp_EXPORNTOONS",
+      "ext": "./lib/EXPORNTOONS.js"
+    },
+    {
+      "name": "SpankBang",
+      "type": 3,
+      "api": "csp_SpankBang",
+      "ext": "./lib/SpankBang.js"
+    },
+    {
+      "name": "麻豆社",
+      "type": 3,
+      "api": "csp_madou",
+      "ext": "./lib/madou.js"
+    },
+    {
+      "name": "玩偶姐姐",
+      "type": 3,
+      "api": "csp_hkdoll",
+      "ext": "./lib/hkdoll.js"
+    },
+    {
+      "name": "Hanime1",
+      "type": 3,
+      "api": "csp_Hanime1",
+      "ext": "./lib/hanime.js"
+    },
+    {
+      "name": "秋名山見(live)",
+      "type": 3,
+      "api": "csp_harunasan",
+      "ext": "./lib/harunasan.js"
+    },
+    {
+      "name": "SupJav",
+      "type": 3,
+      "api": "csp_SupJav",
+      "ext": "./lib/SupJav.js"
+    },
+    {
+      "name": "91jav (無海報)",
+      "type": 3,
+      "api": "csp_91jav",
+      "ext": "./lib/91jav.js"
+    },
+    {
+      "name": "hohoj",
+      "type": 3,
+      "api": "csp_hohoj",
+      "ext": "./lib/hohoj.js"
+    },
+    {
+      "name": "KoreaPornMovie",
+      "type": 3,
+      "api": "csp_KPM",
+      "ext": "./lib/KoreaPornMovie.js"
+    },
+    {
+      "name": "pppHub",
+      "type": 3,
+      "api": "csp_ppron",
+      "ext": "./lib/ppp.js"
+    },
+    {
+      "name": "avtoday",
+      "type": 3,
+      "api": "csp_avtoday",
+      "ext": "./lib/avtoday.js"
+    },
+    {
+      "name": "xHamster",
+      "type": 3,
+      "api": "csp_xhamster",
+      "ext": "./lib/xhamster.js"
+    },
+    {
+      "name": "Pornhub",
+      "type": 3,
+      "api": "csp_pornhub",
+      "ext": "./lib/pornhub.js"
+    },
+    {
+      "name": "jable",
+      "type": 3,
+      "api": "csp_jable",
+      "ext": "./lib/jable.js"
+    },
+    {
+      "name": "花都影視",
+      "type": 3,
+      "api": "csp_hdys",
+      "ext": "./lib/hdys.js"
+    },
+    {
+      "name": "肉视频",
+      "type": 3,
+      "api": "csp_rou",
+      "ext": "./lib/rou.js"
+    },
+    {
+      "name": "Taiav",
+      "type": 3,
+      "api": "csp_Taiav",
+      "ext": "./lib/taiav.js"
+    },
+    {
+      "name": "JavMove",
+      "type": 3,
+      "api": "csp_JavMove",
+      "ext": "./lib/javmove.js"
+    },
+    {
+      "name": "有爱爱",
+      "type": 3,
+      "api": "csp_uaa",
+      "ext": "./lib/uua.js"
+    },
+    {
+      "name": "AVDB",
+      "type": 3,
+      "api": "csp_avdb",
+      "ext": "./lib/avdb.js"
+    },
+    {
+      "name": "KanAV",
+      "type": 3,
+      "api": "csp_kanav",
+      "ext": "./lib/kanav.js"
+    },
+    {
+      "name": "kbjfan",
+      "type": 3,
+      "api": "csp_kbjfan",
+      "ext": "./lib/kbjfan.js"
+    },
+    {
+      "name": "twivideo",
+      "type": 3,
+      "api": "csp_twivideo",
+      "ext": "./lib/twivideo.js"
+    },
+    {
+      "name": "javxx",
+      "type": 3,
+      "api": "csp_javxx",
+      "ext": "./lib/javxx.js"
+    },
+    {
+      "name": "beeg",
+      "type": 3,
+      "api": "csp_beeg",
+      "ext": "./lib/beeg.js"
+    },
+    {
+      "name": "蜜桃臀",
+      "type": 3,
+      "api": "csp_mitaotun",
+      "ext": "./lib/mitaotun.js"
+    }
+  ]
+}
